@@ -1,0 +1,6 @@
+For the next iteration please point for each cell where they belong in the marking scheme to help me. For example, Iteration 1 – part 1, etc.
+
+Is the technique to find outliers proper? Was it justified? (25 marks) 
+15 marks. Fellows, for a skewed distribution it is not a good idea to go with mean-std strategies. 
+Remember that a mean is not an adequate central measurement, you should have used a median-based strategy. 
+In your case, you could have removed values above percentile 95 (or something like that).  
